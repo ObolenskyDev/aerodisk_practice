@@ -33,7 +33,8 @@
 
 ### Проверка целостности данных:
 ```bash
-python3 data_integrity.py
+python3 data_integrity.py 
+```
 
 ---
 
